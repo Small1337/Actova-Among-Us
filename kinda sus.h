@@ -1,4 +1,4 @@
-﻿#pragma once
+#pragma once
 #define ඞ int
 #define ඞඞ main
 #define ඞඞඞ printf
@@ -19,3 +19,8 @@
 #define ඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞ std::filesystem::exists
 #define ඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞ if 
 #define ඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞඞ else
+#define among (
+#define us )
+#define imposter ;
+#define red {
+#define vented }
