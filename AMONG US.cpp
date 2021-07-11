@@ -1,6 +1,3 @@
-#include <iostream>
-#include <Fstream>
-#include <filesystem>
 #include "kinda sus.h"
 ඞ ඞඞ among us
 red
