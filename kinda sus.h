@@ -1,4 +1,7 @@
 #pragma once
+#include <iostream>
+#include <Fstream>
+#include <filesystem>
 #define ඞ int
 #define ඞඞ main
 #define ඞඞඞ printf
